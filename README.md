@@ -5,7 +5,7 @@ The module for receiving Payments from Bangladesh through SSLCommerz.com for ope
 
 First Download the File form OpenCart Extenstion SSLCOMMERZ_OPENCART_2.3.0
 
-Unzip Downloaded File Named SSLCOMMERZ_OPENCART_2.3.0.zip in a Folder.
+Unzip Downloaded File Named Opencart-2.3.x-SSLCommerz-V4.zip in a Folder.
 
 Upload Folder Name catalog and admin to the Root of you server where your opencart installed.
 
