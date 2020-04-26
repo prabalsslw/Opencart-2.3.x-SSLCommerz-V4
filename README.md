@@ -24,11 +24,6 @@ Add * Stroe ID and Validation password : Provided By sslcommerz.com
 Do a test transaction
 
 Note : For Sandbox Mode You Must Input Test Creadentials of SSLCommerz. And for Live You Must input Live Credentials form SSLCommerz
-
 Payment page: http://www.yourdomain.gr/index.php?route=checkout/checkout
-
-Author : http://www.jmredwan.com/
-
-Modules in Opencart Extention : http://www.opencart.com/index.php?route=extension/extension/info&token=8a9da785e88064e4967b783e11005bef&extension_id=26629
-
-More info: https://www.sslcommerz.com
+Author : Prabal Mallick
+Developer Page: https://developer.sslcommerz.com/doc/v4/
